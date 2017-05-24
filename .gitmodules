@@ -1,0 +1,3 @@
+[submodule "concourse-tasks"]
+	path = concourse-tasks
+	url = https://github.com/mariash/concourse-tasks
